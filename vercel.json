@@ -1,0 +1,6 @@
+{
+  "buildCommand": "pnpm install && pnpm build",
+  "outputDirectory": ".next",
+  "framework": "nextjs"
+}
+Added vercel config for Next.js deployment
